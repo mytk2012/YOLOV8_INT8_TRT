@@ -1,6 +1,6 @@
 This project includes model conversion (yolov8 onnx to trt int8), and trt int8 inference. 
 
-TRT inferencement can be implemented without pytorch.
+TRT inferencement can be implemented without pytorch. And its inference time can be up to 2000fps!
 
 Onnx generated:
 yolov8 pt2onnx can refer to the conversion code provided by yolov8. 
